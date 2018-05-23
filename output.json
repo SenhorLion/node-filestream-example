@@ -1,0 +1,36 @@
+{
+  "barney balarney": [
+    {
+      "name": "waffle iron",
+      "price": "80",
+      "qty": "2"
+    },
+    {
+      "name": "blender",
+      "price": "200",
+      "qty": "1"
+    },
+    {
+      "name": "sword",
+      "price": "500",
+      "qty": "5"
+    }
+  ],
+  "Nikita Smith": [
+    {
+      "name": "sythe",
+      "price": "1000",
+      "qty": "4"
+    },
+    {
+      "name": "death star",
+      "price": "2000",
+      "qty": "3"
+    },
+    {
+      "name": "cloak",
+      "price": "100",
+      "qty": "7"
+    }
+  ]
+}

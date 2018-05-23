@@ -1,0 +1,6 @@
+barney balarney	waffle iron	80	2
+barney balarney	blender	200	1
+barney balarney	sword	500	5
+Nikita Smith	sythe	1000	4
+Nikita Smith	death star	2000	3
+Nikita Smith	cloak	100	7
